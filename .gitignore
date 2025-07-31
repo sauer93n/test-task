@@ -1,0 +1,89 @@
+# .NET build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+# NuGet Packages folder can be ignored if not using package restore
+packages/
+# Uncomment if using package restore
+# !packages/build/
+# !packages/repositories.config
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# Azure Pipelines
+.vsts/
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows image file caches
+*.jfif
+
+# Others
+*.vspscc
+*.vssscc
+*.pdb
+*.mdb
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.tmp
+*.tmp_proj
+*.log
+*.vs/
+
+# Entity Framework
+Migrations/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Test results
+TestResults/
+
+# NCrunch
+.ncrunch*
+*crunch*.local.xml
+
+# SonarQube
+.sonar/
+
+# Coverage
+coverage/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Local .env files
+.env
+.env.*
